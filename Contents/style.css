@@ -19,6 +19,11 @@
   flex: 10%
   blackground-color: red
 }
+firame{
+  border: none;
+  width: 100%
+  height: 0;
+}
 
 h1 {
   color: red;
