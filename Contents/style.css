@@ -1,17 +1,23 @@
 .container{
-
+  display: flex;
+  flex-direction: column;
+  height: 0;
 }
 .header{
-
+  flex: 15%
+  blackground-color: red
 }
 .menu{
-
+  flex: 5%
+  blackground-color: lightpink
 }
 .content{
-
+  flex: 70%
+  blackground-color: white
 }
 .footer{
-
+  flex: 10%
+  blackground-color: red
 }
 
 h1 {
