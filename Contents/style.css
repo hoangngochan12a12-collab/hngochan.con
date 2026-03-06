@@ -5,6 +5,7 @@
 }
 .header{
   flex: 15%
+  blackground: url(
   blackground-color: red
 }
 .menu a{
